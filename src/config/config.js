@@ -1,7 +1,7 @@
 export default {
   s3: {
     REGION: 'us-east-2',
-    BUCKET: 'resume-app-uploads',
+    BUCKET: 'resume-picture-upload',
   },
   apiGateway: {
     REGION: 'us-east-2',
